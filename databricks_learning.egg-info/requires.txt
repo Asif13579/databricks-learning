@@ -1,0 +1,6 @@
+pyspark==3.5.8
+delta-spark==3.3.2
+
+[test]
+pytest>=8.0
+pytest-cov>=5.0
